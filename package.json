@@ -1,9 +1,9 @@
 {
   "name": "momo-djambe.github.io",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "node-sass --include-path scss/scss/main.scss --output dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/momo-djambe/momo-djambe.github.io/issues"
   },
-  "homepage": "https://github.com/momo-djambe/momo-djambe.github.io#readme"
+  "homepage": "https://github.com/momo-djambe/momo-djambe.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
 }

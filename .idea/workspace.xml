@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28eaa70c-dbd3-419e-9c95-030e405e3bbb" name="Default Changelist" comment="Mon premier comit" />
+    <list default="true" id="28eaa70c-dbd3-419e-9c95-030e405e3bbb" name="Default Changelist" comment="Ajout du cv">
+      <change afterPath="$PROJECT_DIR$/CyberSécurité.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/custom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5G.html" beforeDir="false" afterPath="$PROJECT_DIR$/5G.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrou.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carrou.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coca.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LBJ.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/LBJ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LBJCAVS.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/LBJCAVS.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LBJLAKERS.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/LBJLAKERS.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeBron_James.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veille.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cvdjambe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cvmomo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cvmomo2.0.html" beforeDir="false" afterPath="$PROJECT_DIR$/cvmomo2.0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitgnore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitgnore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrsmiths.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jrsmiths.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lebron-cigar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lebron-cigar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lebron-cry.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lebron-cry.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lebron_cigar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lebron_cigar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -36,6 +60,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\momo_\WebstormProjects\momo-djambe.github.io" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\momo_\WebstormProjects\momo-djambe.github.io\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +76,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606485786333</updated>
-      <workItem from="1606485789818" duration="2821000" />
+      <workItem from="1606485789818" duration="6243000" />
+      <workItem from="1607616728226" duration="4162000" />
+      <workItem from="1607622331598" duration="6737000" />
+      <workItem from="1608140854006" duration="15432000" />
     </task>
     <task id="LOCAL-00001" summary="Mon premier comit">
       <created>1606488059064</created>
@@ -53,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606488059064</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ajout du cv">
+      <created>1606488778785</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606488778785</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,9 +111,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mon premier comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mon premier comit" />
+    <MESSAGE value="Ajout du cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout du cv" />
   </component>
 </project>
