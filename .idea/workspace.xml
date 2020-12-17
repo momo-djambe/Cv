@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28eaa70c-dbd3-419e-9c95-030e405e3bbb" name="Default Changelist" comment="qu'est ce que l'on commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cv Prof.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="28eaa70c-dbd3-419e-9c95-030e405e3bbb" name="Default Changelist" comment="Que" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +70,7 @@
       <workItem from="1606485789818" duration="6243000" />
       <workItem from="1607616728226" duration="4162000" />
       <workItem from="1607622331598" duration="6737000" />
-      <workItem from="1608140854006" duration="17358000" />
+      <workItem from="1608140854006" duration="17709000" />
     </task>
     <task id="LOCAL-00001" summary="Mon premier comit">
       <created>1606488059064</created>
@@ -98,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608158710092</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="qu'est ce que l'on commit">
+      <created>1608192007427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608192007427</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Que">
+      <created>1608192174347</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608192174347</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +129,7 @@
     <MESSAGE value="Mon premier comit" />
     <MESSAGE value="Ajout du cv" />
     <MESSAGE value="qu'est ce que l'on commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="qu'est ce que l'on commit" />
+    <MESSAGE value="Que" />
+    <option name="LAST_COMMIT_MESSAGE" value="Que" />
   </component>
 </project>
