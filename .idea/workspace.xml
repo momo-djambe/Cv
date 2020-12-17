@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28eaa70c-dbd3-419e-9c95-030e405e3bbb" name="Default Changelist" comment="Ajout du cv">
-      <change afterPath="$PROJECT_DIR$/CyberSécurité.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+    <list default="true" id="28eaa70c-dbd3-419e-9c95-030e405e3bbb" name="Default Changelist" comment="qu'est ce que l'on commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5G.html" beforeDir="false" afterPath="$PROJECT_DIR$/5G.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carrou.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carrou.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coca.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LBJ.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/LBJ.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LBJCAVS.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/LBJCAVS.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LBJLAKERS.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/LBJLAKERS.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeBron_James.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veille.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cvdjambe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cvmomo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cvmomo2.0.html" beforeDir="false" afterPath="$PROJECT_DIR$/cvmomo2.0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitgnore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitgnore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cv Prof.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jrsmiths.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jrsmiths.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lebron-cigar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lebron-cigar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lebron-cry.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lebron-cry.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lebron_cigar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lebron_cigar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +50,20 @@
       <recent name="C:\Users\momo_\WebstormProjects\momo-djambe.github.io\images" />
     </key>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.cvmomo2.0.html">
+    <configuration name="Accueil.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/momo-djambe.github.io/Accueil.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="cvmomo2.0.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/momo-djambe.github.io/cvmomo2.0.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.cvmomo2.0.html" />
+        <item itemvalue="JavaScript Debug.Accueil.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,7 +75,7 @@
       <workItem from="1606485789818" duration="6243000" />
       <workItem from="1607616728226" duration="4162000" />
       <workItem from="1607622331598" duration="6737000" />
-      <workItem from="1608140854006" duration="15432000" />
+      <workItem from="1608140854006" duration="17358000" />
     </task>
     <task id="LOCAL-00001" summary="Mon premier comit">
       <created>1606488059064</created>
@@ -95,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606488778785</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="qu'est ce que l'on commit">
+      <created>1608158710092</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608158710092</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mon premier comit" />
     <MESSAGE value="Ajout du cv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout du cv" />
+    <MESSAGE value="qu'est ce que l'on commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="qu'est ce que l'on commit" />
   </component>
 </project>
